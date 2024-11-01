@@ -1,0 +1,365 @@
+#nd_table label {
+  display: inline-block;
+  width: 19%;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.add-row{
+  cursor: pointer;
+}
+.nd-table-data input {
+  width: 17.8%;
+  display: inline-block;
+  background: #fff;
+  padding: 4px;
+}
+.nd_table label {
+  width: 16%;
+  display: inline-block;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: left;
+  background: #fff;
+  padding: 10px;
+}
+.delete-field_p{
+  cursor: pointer;
+}
+.nd-table-data .row {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+
+}
+.bp-cont {
+  display: inline-block;
+}
+.bp-cont label {
+  font-weight: bold;
+  display: block;
+}
+.bp-cont {
+  display: inline-block;
+}
+.row-one {
+  margin-bottom: 20px;
+}
+.row-two-div {
+  margin-bottom: 10px;
+}
+.row-two-div label{
+  font-weight: bold;
+}
+.row-two, .row-one, .row-three, .row-four {
+  margin-bottom: 25px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 25px;
+}
+.active-table, .nd-add-f, .active-product, .active-bttop {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+.table-title {
+  margin: 30px 0;
+}
+.table-title label{
+  font-weight: bold;
+}
+
+.nd-table-sec label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.nd-table-sec div {
+    display: inline-block;
+    margin-right: 20px;
+}
+.nd-img-field {
+    margin-bottom: 10px;
+}
+.nd-img-field input{
+    width: 100%;
+}
+.input_fields_wrap.nd_table {
+    background: #f1f1f1;
+    padding: 20px;
+}
+.delete-field_p {
+    text-align: center;
+    background: #f41919;
+    color: #fff;
+    position: relative;
+    display: inline-block;
+    vertical-align: super;
+    font-size: 16px;
+    font-weight: bold;
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    border-radius: 5px;
+    padding: 2px 12px 9px 12px;
+    position: relative;
+    line-height: 20px;
+    top: 4px;
+}
+.delete-field_p:hover {
+    color: #fff;
+    background: #d51c1c;
+}
+.add_field_button_p {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    color: #fff !important;
+    background-color: #4285f4 !important;
+    border: none;
+    padding: .84rem 2.14rem;
+    font-size: .81rem;
+    border-color: transparent !important;
+}
+.add_field_button_p:hover {
+
+}
+.nd-table-sec {
+    border-bottom: 1px solid #222;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+.add_field_button_p:hover {
+    background-color: #3d6dbb !important;
+}
+.nd-copy-text {
+    cursor: pointer;
+    background: #4285f4;
+    padding: 7px;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 11px;
+}
+#nd_p_table label {
+  display: inline-block;
+  width: 19%;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.add-row{
+  cursor: pointer;
+}
+.nd-table-data input {
+    width: 15%;
+    display: inline-block;
+    background: #f1f1f1;
+    padding: 5px;
+    height: 33px;
+    border-radius: 2px;
+}
+.input_fields_wrap_p.nd_p_table label {
+    width: 13%;
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+    background: #4285f4;
+    color: #fff;
+    padding: 9px 11.6px;
+}
+.delete-field_p{
+  cursor: pointer;
+}
+.nd-table-data .row {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+
+}
+.bp-cont {
+  display: inline-block;
+}
+.bp-cont label {
+  font-weight: bold;
+  display: block;
+}
+.bp-cont {
+  display: inline-block;
+}
+.row-one {
+  margin-bottom: 20px;
+}
+.row-two-div {
+  margin-bottom: 10px;
+}
+.row-two-div label{
+  font-weight: bold;
+}
+.row-two, .row-one, .row-three, .row-four {
+  margin-bottom: 25px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 25px;
+}
+.active-table, .nd-add-f, .active-product, .active-bttop {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+.table-title {
+  margin: 30px 0;
+}
+.table-title label{
+  font-weight: bold;
+}
+
+
+/* Cat Fields */
+.nd-new-post-cont {
+}
+.nd-post-data {
+  
+}
+.nd-post-data label {
+  
+}
+.nd-sc{
+  padding: 30px 0;
+}
+.nd-sc span {
+  background: #d5d5d55e;
+  padding: 7px;
+  margin: 20px 0;
+  display: inline-block;
+}
+.nd-table-admin-title {
+    font-size: 26px;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+
+
+
+
+.nd-admin-best-pro {
+    padding: 10px;
+    background: #efefef;
+}
+.row-two-div div label {
+    display: block;
+    margin-bottom: 10px;
+}
+.row-two-div div {
+    display: inline-block;
+}
+.row-two-div label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+}
+.row-two-div textarea{
+  width: 100% ;
+
+}
+.nd-textarea {
+    display: block;
+    width: 100%;
+}
+.row-two span, .row-one span,.add-dynamic-products span {
+    text-align: center;
+    margin-bottom: 20px;
+    display: block;
+    font-size: 30px;
+    font-weight: 500;
+}
+.add_new_product {
+    display: inline-block;
+    background: #eaeaea;
+    padding: 12px 10px;
+    border-radius: 5px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.product-main-cont-inner > div label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.product-main-cont-inner >  div {
+    display: inline-block;
+}
+.m_p_content_e {
+    width: 100%;
+    margin: 40px 0;
+    border-top: 1px solid #ccc;
+    padding-top: 30px;
+}
+.product-main-cont-inner {
+    padding: 10px;
+    background: #efefef;
+    display: none;
+}
+.collapse-product {
+    display: block;
+    background: #adaaaa;
+    width: 100%;
+    text-align: right;
+    padding: 7px;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    color: #fff;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#49c0f0+0,2cafe3+100;Blue+3D+%2311 */
+background: rgb(73,192,240); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(73,192,240,1) 0%, rgba(44,175,227,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(73,192,240,1) 0%,rgba(44,175,227,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(73,192,240,1) 0%,rgba(44,175,227,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#49c0f0', endColorstr='#2cafe3',GradientType=0 ); /* IE6-9 */
+
+}
+.collapse-product a {
+    color: #fff;
+    cursor: pointer;
+    float: left;
+}
+.collapse-product a:hover{
+  text-decoration: underline;
+}
+.delete-product {
+    float: right;
+    cursor: pointer;
+    padding: 4px 10px;
+    background: #9e1919;
+}
+.clearfix{
+  clear: both;
+  padding: 0;
+  margin: 0;
+}
+
+.products-main-cont {
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
